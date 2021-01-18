@@ -15,3 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm currently focus on Spark SQL, Apache calcite。
+
+
+#### github基础统计信息
+<a href="https://github.com/mggger">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mggger&count_private=true&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/mggger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mggger&layout=compact" />
+</a>
