@@ -23,5 +23,5 @@ I'm currently focus on Spark SQL, Apache calcite。
 </a>
 
 <a href="https://github.com/mggger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mggger&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mggger&layout=compact&langs_count=8" />
 </a>
